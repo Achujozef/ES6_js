@@ -1,0 +1,6 @@
+The spread operator in JavaScript is denoted by ... and is used to unpack elements from arrays, objects, or function arguments, enabling concise and flexible data manipulation. It creates shallow copies of arrays and objects, making it useful for combining or cloning data. With arrays, the spread operator creates a new array by expanding elements from an existing one. With objects, it creates a new object by copying properties. In function arguments, it spreads an array into individual arguments. The spread operator simplifies array merging, object manipulation, and function invocation, enhancing code readability and versatility.
+
+
+
+
+
