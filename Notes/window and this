@@ -1,0 +1,2 @@
+
+* window refers to the global browser environment in JavaScript, representing the top-level object that contains browser-related properties and methods. this is a contextual keyword that refers to the current execution context. In the global scope, this is equivalent to window. Inside a function, this depends on how the function is invoked; in methods, it points to the object calling the method. Understanding window and this is vital for manipulating the browser environment and accessing the correct context, respectively, in JavaScript applications.

@@ -1,0 +1,12 @@
+Exicution Context (Consists Of 2 Components) Everything happens here
+
+Memory Compenent(Variable Enviroment)
+* Stored As key Value Pairs
+* Like A:10
+* Function As also Stored here
+
+
+Code Component (Thred of Exicution)
+
+* Code is Exicuted One Line At a time
+*Js is A Synchronus single threaded Language

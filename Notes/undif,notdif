@@ -1,0 +1,5 @@
+* Undefined:
+In JavaScript, "undefined" is a special value that a variable can hold. If a variable is declared but has not been assigned a value, it will have the value of "undefined". It can also represent the return value of a function that doesn't explicitly return anything.
+
+* Not Defined:
+"Not defined" refers to a situation where an identifier (variable, function, etc.) has not been declared or is not in scope. Attempting to use an identifier that is not defined will result in a ReferenceError.
